@@ -16,6 +16,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Bilety na Oh My H@ck 2021](https://app.evenea.pl/event/omh2021/) - z kodem "kacperzaprasza" - 20% taniej _(nie dotyczy biletów studenckich)_.
 * [Nessus Pro](https://www.tenable.com/buy) - z kodem "takehalf" - 50% taniej.
 * [INE Premium](https://info.ine.com/black-friday-2021/) - 499$.
+* [Burp Bounty](https://burpbounty.net/) - rozszerzenie do Burp Suite - z kodem "CYBERBOUNTY" - 20% taniej
 
 # Dla wszystkich
 
@@ -96,7 +97,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 
 * [Elevation of Privilege](https://www.microsoft.com/en-us/download/details.aspx?id=20303) - darmowa gra karciana do wydrukowania do używania podczas sesji "Threat Modeling".
 * [Shodan](https://www.shodan.io/) - Google dla urządzeń IoT - co roku w okolicach Black Friday można kupić wieczysty dostęp za około 5$.
-* [LUNA](https://www.crowdsupply.com/great-scott-gadgets/luna) - narzędzie do analizy urządzeń  USB _Uwaga: dostawa to preorder, dostawa za rok_.
+* [LUNA](https://www.crowdsupply.com/great-scott-gadgets/luna) - narzędzie do analizy urządzeń. USB _Uwaga: dostawa to preorder, dostawa za rok_.
 * [Flipper Zero](https://shop.flipperzero.one/) - Multi-tool dla geeków. _Uwaga: preorder, obecnie wyprzedany_.
 
 # Inne listy
