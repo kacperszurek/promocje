@@ -25,8 +25,10 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Yubico Security Key](https://www.amazon.de/-/en/Yubico-Security-Key-Authentication-USB/dp/B07BYSB7FK) - tańsza wersja klucza YubiKey, bez NFC - do podstawowych zastosowań
   * YubiKey można też zamówić bezpośrednio [od producenta](https://www.yubico.com/pl/store/) lub od [polskich dystrybutorów](https://www.x-kom.pl/g-12/c/3450-klucze-sprzetowe.html).
 * Książki
-  * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide)
-  * [Bezpieczeństwo aplikacji webowych](https://sklep.sekurak.pl/product/view?id=1) by Sekurak
+  * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide).
+  * [Bezpieczeństwo aplikacji webowych](https://sklep.sekurak.pl/product/view?id=1) by Sekurak.
+  * [Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) i [Praktyczna inżynieria wsteczna](https://ksiegarnia.pwn.pl/Praktyczna-inzynieria-wsteczna,622427233,p.html) by Gynvael.
+ * [Gra garciana IT Startup](https://www.itstartup.pl/).
 * [iFixit 64 Bit Driver Kit](https://www.amazon.de/-/en/iFixit-Bit-Driver-Kit-Smartphone/dp/B0189YWOIO/) - zestaw śrubokrętów z różnymi niecodziennymi "końcówkami".
 * [Monojoy Faraday Bag](https://www.amazon.de/-/en/MONOJOY-Protection-Shielding-Radiation-Blocking/dp/B07KXG6JHM/) - klatka Faradaya na klucze samochodowe. Jeżeli masz "inteligentny kluczyk" - może to ochronić przed atakami ["na walizkę"](https://www.youtube.com/watch?v=LxR9esPTIeo).
 * [PortaPow](https://www.amazon.de/-/en/PPSCA02-black/dp/B00T0DW3F8/) - bloker USB. Podłączanie nieznanych urządzeń USB do komputera może być [niebezpieczne](https://youtu.be/oLnrioYhEsg?t=251). Ta przejściowka ma fizycznie odłączone PINy, wykorzystywane do przesyłu danych. Kiedy przy jej pomocy podłączymy urządzenie USB do komputera - będzie się mogło jedynie ładować.
