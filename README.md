@@ -17,6 +17,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Nessus Pro](https://www.tenable.com/buy) - z kodem "takehalf" - 50% taniej.
 * [INE Premium](https://info.ine.com/black-friday-2021/) - 499$.
 * [Burp Bounty](https://burpbounty.net/) - rozszerzenie do Burp Suite - z kodem "CYBERBOUNTY" - 20% taniej
+* [YubiKey](https://www.yubico.com/pl/store/black-friday/) - od 22.11 do 29.11 - oszczędź $20 przy zakupach za co najmniej $100
 
 # Dla wszystkich
 
