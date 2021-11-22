@@ -14,10 +14,13 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 
 * [Egzamin "Burp Suite Certified Practitioner"](https://portswigger.net/buy/certification) - za $9 (zamiast $99). _Uwaga: wymaga posiadania płatnej wersji Burp Suite Professional (która kosztuje $399)_.
 * [Bilety na Oh My H@ck 2021](https://app.evenea.pl/event/omh2021/) - z kodem "kacperzaprasza" - 20% taniej _(nie dotyczy biletów studenckich)_.
+* [Bilety na Mega Sekurak Hacking Party](https://sklep.sekurak.pl/event/view?id=77) - z kodem "mega-BF40" - bilety standard 40% taniej
 * [Nessus Pro](https://www.tenable.com/buy) - z kodem "takehalf" - 50% taniej.
 * [INE Premium](https://info.ine.com/black-friday-2021/) - 499$.
 * [Burp Bounty](https://burpbounty.net/) - rozszerzenie do Burp Suite - z kodem "CYBERBOUNTY" - 20% taniej
 * [YubiKey](https://www.yubico.com/pl/store/black-friday/) - od 22.11 do 29.11 - oszczędź $20 przy zakupach za co najmniej $100
+* [iFixit](https://www.ifixit.com/eu-black-friday-holiday) - różne narzędzia dla majsterkowiczów
+* [Sektor7](https://institute.sektor7.net/) - kursy o Red Teamingu - $30 taniej
 
 # Dla wszystkich
 
@@ -28,9 +31,10 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
   * YubiKey można też zamówić bezpośrednio [od producenta](https://www.yubico.com/pl/store/) lub od [polskich dystrybutorów](https://www.x-kom.pl/g-12/c/3450-klucze-sprzetowe.html).
 * Książki
   * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide).
-  * [Bezpieczeństwo aplikacji webowych](https://sklep.sekurak.pl/product/view?id=1) by Sekurak.
+  * [Bezpieczeństwo aplikacji webowych](https://sklep.sekurak.pl/product/view?id=1) by Sekurak - z kodem "ksiazka-bf-25" - 25% taniej.
   * [Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) i [Praktyczna inżynieria wsteczna](https://ksiegarnia.pwn.pl/Praktyczna-inzynieria-wsteczna,622427233,p.html) by Gynvael.
-  * [Sandworm. Nowa era cyberwojny i polowanie na najbardziej niebezpiecznych hakerów Kremla](https://ksiegarnia.pwn.pl/Sandworm,897656114,p.html) by Andy Greenberg 
+  * [Sandworm. Nowa era cyberwojny](https://ksiegarnia.pwn.pl/Sandworm,897656114,p.html) by Andy Greenberg 
+  * [Praktyczna analiza powłamaniowa](https://ksiegarnia.pwn.pl/Praktyczna-analiza-powlamaniowa,715723827,p.html) by Adam Ziaja
  * [Gra garciana IT Startup](https://www.itstartup.pl/).
 * [iFixit 64 Bit Driver Kit](https://www.amazon.de/-/en/iFixit-Bit-Driver-Kit-Smartphone/dp/B0189YWOIO/) - zestaw śrubokrętów z różnymi niecodziennymi "końcówkami".
 * [Monojoy Faraday Bag](https://www.amazon.de/-/en/MONOJOY-Protection-Shielding-Radiation-Blocking/dp/B07KXG6JHM/) - klatka Faradaya na klucze samochodowe. Jeżeli masz "inteligentny kluczyk" - może to ochronić przed atakami ["na walizkę"](https://www.youtube.com/watch?v=LxR9esPTIeo).
@@ -85,6 +89,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - oprogramowanie do uruchamiania maszyn wirtualnych.
 * [Total Commander](https://www.ghisler.com/) - menedżer plików działający w środowisku Windows.
 * [Protonmail](https://protonmail.com/pl/) - poczta e-mail.
+* [Sublime Text](https://www.sublimetext.com/) - szybki edytor plików.
 
 # Zaawansowane
 
@@ -102,7 +107,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Shodan](https://www.shodan.io/) - Google dla urządzeń IoT - co roku w okolicach Black Friday można kupić wieczysty dostęp za około 5$.
 * [LUNA](https://www.crowdsupply.com/great-scott-gadgets/luna) - narzędzie do analizy urządzeń. USB _Uwaga: dostawa to preorder, dostawa za rok_.
 * [Flipper Zero](https://shop.flipperzero.one/) - Multi-tool dla geeków. _Uwaga: preorder, obecnie wyprzedany_.
-
+* [Vimeo Pro](https://vimeo.com/upgrade?promos=%7B%22plus%22%3A%22PLSCAW2021%22%2C%22pro%22%3A%22PROCAW2021%22%2C%22live_premium%22%3A%22PRECAW2021%22%7D) - hosting video - 25% taniej
 # Inne listy
 
 * https://github.com/0x90n/InfoSec-Black-Friday
