@@ -77,6 +77,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Burp Pro](https://portswigger.net/buy/pro) - płatna wersja narzędzia do [pentestów](https://www.youtube.com/watch?v=cpaxYnHus9Q&t=225s).
 * [Binary Ninja](https://binary.ninja/purchase/) - platforma do inżynierii wstecznej (istnieje darmowa wersja w [chmurze](https://cloud.binary.ninja/)).
 * [Hack The Box Gift Card](https://www.hackthebox.eu/giftcards) - podatne maszyny wykorzystywane do nauki pentestów - karta podarunkowa na pakiet VIP, który pozwala na sprawdzenie [starszych maszyn](https://www.hackthebox.eu/individuals).
+* [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi oraz do używania specjalnie przygotowanej maszyny do hackowania z poziomu przeglądarki.
 * [PentesterLab PRO](https://pentesterlab.com/pro) - ćwiczenia powiązane z bezpieczeństwem w formie interaktywnych laboratoriów, dostęp do większości wymaga płatnego konta PRO.
 * [KNOXSS](https://knoxss.me/) - narzędzie do poszukiwania błędów typu XSS.
 * [IDA Pro](https://hex-rays.com/ida-pro/) - debugger i deasembler.
