@@ -30,7 +30,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Yubico Security Key](https://www.amazon.de/-/en/Yubico-Security-Key-Authentication-USB/dp/B07BYSB7FK) - tańsza wersja klucza YubiKey, bez NFC - do podstawowych zastosowań
   * YubiKey można też zamówić bezpośrednio [od producenta](https://www.yubico.com/pl/store/) lub od [polskich dystrybutorów](https://www.x-kom.pl/g-12/c/3450-klucze-sprzetowe.html).
 * Książki
-  * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide).
+  * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide) - z kodem "BLACKFRIDAY35" - 35% taniej.
   * [Bezpieczeństwo aplikacji webowych](https://sklep.sekurak.pl/product/view?id=1) by Sekurak - z kodem "ksiazka-bf-25" - 25% taniej.
   * [Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) i [Praktyczna inżynieria wsteczna](https://ksiegarnia.pwn.pl/Praktyczna-inzynieria-wsteczna,622427233,p.html) by Gynvael.
   * [Sandworm. Nowa era cyberwojny](https://ksiegarnia.pwn.pl/Sandworm,897656114,p.html) by Andy Greenberg 
