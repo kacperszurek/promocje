@@ -23,6 +23,9 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [iFixit](https://www.ifixit.com/eu-black-friday-holiday) - różne narzędzia dla majsterkowiczów
 * [Sektor7](https://institute.sektor7.net/) - kursy o Red Teamingu - $30 taniej
 * Kursy [Szkoła Security](https://szkolasecurity.pl/kursy-online/) - [Testowanie Bezpieczeństwa Web Aplikacji](https://szkolasecurity.pl/zamowienie/?add-to-cart=11492&discount=Black35) - 35% taniej, [Security Starter](https://szkolasecurity.pl/zamowienie/?add-to-cart=12346&discount=Black50) - 50% taniej, [WiFi King](https://szkolasecurity.pl/zamowienie/?add-to-cart=18516&discount=Black25) - 25% taniej, [Python dla bezpieczników](https://szkolasecurity.pl/zamowienie/?add-to-cart=19560&discount=Black50) - 50% taniej, [Bezpieczeństwo API i GraphQL](https://szkolasecurity.pl/zamowienie/?add-to-cart=11996&discount=Black25) - 25% taniej.
+* [Rabaty na szkolenia Sekuraka/Securitum](https://sekurak.pl/sekurak-black-friday-tutaj-najlepsze-rabaty-na-szkolenia-sekuraka-securitum-akcja-do-30-11-2021/).
+
+
 # Dla wszystkich
 
 * [Oferta Rodzinna BIK](https://www.bik.pl/klienci-indywidualni/oferta-rodzinna) - Alerty o próbach wyłudzenia kredytu na Ciebie i 4 inne osoby za 99 zł.
