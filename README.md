@@ -61,7 +61,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 	* [Bash Bunny](https://shop.hak5.org/products/bash-bunny) - mini komputer na USB.
 	* [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) - emulator klawiatury.
 	* [Packet Squirrel](https://shop.hak5.org/products/packet-squirrel) - man-in-the-middle.
-* [LAB 401](https://lab401.com/) - europejski dystrybutor HAK5 (i nie tylko) - wysyłka z europy
+* [LAB 401](https://lab401.com/) - europejski dystrybutor HAK5 (i nie tylko) - wysyłka z europy, [darmowa dostawa od 100€](https://lab401.com/blogs/news/black-friday-cyber-monday-2021-get-10-off-free-hardware)
 * [Digispark](https://www.amazon.de/-/en/AZDelivery-Digispark-Rev-3-Kickstarter/dp/B01N7SGC1I/) - można wykorzystać do stworzenia [domowej roboty](https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910) Rubber Ducky.
 * [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - podobny projekt ale z WIFI, wykorzystujący [Atmega32u4](https://pl.aliexpress.com/item/4000256143274.html).
 * [Raspberry Pi Zero 2W](https://www.amazon.de/-/en/Melopero-Raspberry-Zero-Starter-Kit/dp/B09KL3SLR3/) - zamień w narzędzie do Red Teamingu przy pomocy [P4wnP1 A.L.O.A.](https://github.com/RoganDawes/P4wnP1_aloa).
