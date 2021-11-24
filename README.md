@@ -14,7 +14,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 
 * [Egzamin "Burp Suite Certified Practitioner"](https://portswigger.net/buy/certification) - za $9 (zamiast $99). _Uwaga: wymaga posiadania płatnej wersji Burp Suite Professional (która kosztuje $399)_.
 * [Bilety na Oh My H@ck 2021](https://app.evenea.pl/event/omh2021/) - z kodem "kacperzaprasza" - 20% taniej _(nie dotyczy biletów studenckich)_.
-* [Bilety na Mega Sekurak Hacking Party](https://sklep.sekurak.pl/event/view?id=77) - z kodem "mega-BF40" - bilety standard 40% taniej
+* [Bilety na Mega Sekurak Hacking Party](https://sklep.sekurak.pl/event/view?id=77) - z kodem "mega-prelegent-10" - bilety standard 10% taniej
 * [Nessus Pro](https://www.tenable.com/buy) - z kodem "takehalf" - 50% taniej.
 * [INE Premium](https://info.ine.com/black-friday-2021/) - 499$.
 * [Burp Bounty](https://burpbounty.net/) - rozszerzenie do Burp Suite - z kodem "CYBERBOUNTY" - 20% taniej
