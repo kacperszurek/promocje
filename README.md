@@ -12,6 +12,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 
 # Promocje
 
+* [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide) - z kodem "BLACKFRIDAY35" - 35% taniej.
 * [Egzamin "Burp Suite Certified Practitioner"](https://portswigger.net/buy/certification) - za $9 (zamiast $99). _Uwaga: wymaga posiadania płatnej wersji Burp Suite Professional (która kosztuje $399)_.
 * [Bilety na Oh My H@ck 2021](https://app.evenea.pl/event/omh2021/) - z kodem "BLACK_FRIDAY" - 30% taniej _(nie dotyczy biletów studenckich)_.
 * [Bilety na Mega Sekurak Hacking Party](https://sklep.sekurak.pl/event/view?id=77) - z kodem "mega-prelegent-10" - bilety standard 10% taniej
@@ -30,7 +31,6 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Yubico Security Key](https://www.amazon.de/-/en/Yubico-Security-Key-Authentication-USB/dp/B07BYSB7FK) - tańsza wersja klucza YubiKey, bez NFC - do podstawowych zastosowań
   * YubiKey można też zamówić bezpośrednio [od producenta](https://www.yubico.com/pl/store/) lub od [polskich dystrybutorów](https://www.x-kom.pl/g-12/c/3450-klucze-sprzetowe.html).
 * Książki
-  * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide) - z kodem "BLACKFRIDAY35" - 35% taniej.
   * [Bezpieczeństwo aplikacji webowych](https://sklep.sekurak.pl/product/view?id=1) by Sekurak - z kodem "ksiazka-bf-25" - 25% taniej.
   * [Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) i [Praktyczna inżynieria wsteczna](https://ksiegarnia.pwn.pl/Praktyczna-inzynieria-wsteczna,622427233,p.html) by Gynvael.
   * [Sandworm. Nowa era cyberwojny](https://ksiegarnia.pwn.pl/Sandworm,897656114,p.html) by Andy Greenberg 
