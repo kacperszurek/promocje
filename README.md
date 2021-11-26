@@ -30,6 +30,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [VMware Workstation Pro](https://store-us.vmware.com/black-friday-2021-savings-event) - oprogramowanie do uruchamiania maszyn wirtualnych, do 30% taniej.
 * [Parallels](https://www.parallels.com/products/desktop/) - oprogramowanie do uruchamiania maszyn wirtualnych dla MacOS - 20% taniej.
 * [KNOXSS](https://knoxss.me/?page_id=1974) - narzędzie do poszukiwania błędów typu XSS, do 50% taniej.
+* [Newsletter Bug Bounty Reports Explained](https://premium.bugbountyexplained.com/) - z kodem "BLACKWEEK" - 25% taniej
 
 # Dla wszystkich
 
