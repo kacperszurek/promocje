@@ -12,6 +12,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 
 # Promocje
 
+* [Kurs Security Awareness](https://wideo.zaufanatrzeciastrona.pl/) od Zaufanej Trzeciej Strony - z kodem "blackfriday" - 50% taniej
 * [Wydawnictwo No Starch Press](https://nostarch.com/blog/2021-holiday-gift-guide) - z kodem "BLACKFRIDAY35" - 35% taniej.
 * [Egzamin "Burp Suite Certified Practitioner"](https://portswigger.net/buy/certification) - za $9 (zamiast $99). _Uwaga: wymaga posiadania płatnej wersji Burp Suite Professional (która kosztuje $399)_.
 * [Bilety na Oh My H@ck 2021](https://app.evenea.pl/event/omh2021/) - z kodem "BLACK_FRIDAY" - 30% taniej _(nie dotyczy biletów studenckich)_.
