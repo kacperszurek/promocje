@@ -26,7 +26,8 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Rabaty na szkolenia Sekuraka/Securitum](https://sekurak.pl/sekurak-black-friday-tutaj-najlepsze-rabaty-na-szkolenia-sekuraka-securitum-akcja-do-30-11-2021/).
 * [010 Hex Editor](https://www.sweetscape.com/store/?id=30off) - 30% taniej
 * [IDA Pro](https://hex-rays.com/terms-and-conditions-black-friday-2021/) - debugger i deasembler, IDA Home 25% taniej, IDA Pro 10% taniej.
-* 
+* [VMware Workstation Pro](https://store-us.vmware.com/black-friday-2021-savings-event) - oprogramowanie do uruchamiania maszyn wirtualnych, do 30% taniej.
+
 # Dla wszystkich
 
 * [Oferta Rodzinna BIK](https://www.bik.pl/klienci-indywidualni/oferta-rodzinna) - Alerty o próbach wyłudzenia kredytu na Ciebie i 4 inne osoby za 99 zł.
@@ -89,7 +90,6 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi oraz do używania specjalnie przygotowanej maszyny do hackowania z poziomu przeglądarki.
 * [PentesterLab PRO](https://pentesterlab.com/pro) - ćwiczenia powiązane z bezpieczeństwem w formie interaktywnych laboratoriów, dostęp do większości wymaga płatnego konta PRO.
 * [KNOXSS](https://knoxss.me/) - narzędzie do poszukiwania błędów typu XSS.
-* [VMware Workstation Pro](https://www.vmware.com/products/workstation-pro.html) - oprogramowanie do uruchamiania maszyn wirtualnych.
 * [Parallels](https://www.parallels.com/products/desktop/) - oprogramowanie do uruchamiania maszyn wirtualnych dla MacOS - 20% taniej.
 * [Total Commander](https://www.ghisler.com/) - menedżer plików działający w środowisku Windows.
 * [Protonmail](https://protonmail.com/pl/) - poczta e-mail.
@@ -112,6 +112,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [LUNA](https://www.crowdsupply.com/great-scott-gadgets/luna) - narzędzie do analizy urządzeń. USB _Uwaga: dostawa to preorder, dostawa za rok_.
 * [Flipper Zero](https://shop.flipperzero.one/) - Multi-tool dla geeków. _Uwaga: preorder, obecnie wyprzedany_.
 * [Vimeo Pro](https://vimeo.com/upgrade?promos=%7B%22plus%22%3A%22PLSCAW2021%22%2C%22pro%22%3A%22PROCAW2021%22%2C%22live_premium%22%3A%22PRECAW2021%22%7D) - hosting video - 25% taniej
+
 # Inne listy
 
 * https://github.com/0x90n/InfoSec-Black-Friday
