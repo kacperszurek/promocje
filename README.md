@@ -27,6 +27,7 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [010 Hex Editor](https://www.sweetscape.com/store/?id=30off) - 30% taniej
 * [IDA Pro](https://hex-rays.com/terms-and-conditions-black-friday-2021/) - debugger i deasembler, IDA Home 25% taniej, IDA Pro 10% taniej.
 * [VMware Workstation Pro](https://store-us.vmware.com/black-friday-2021-savings-event) - oprogramowanie do uruchamiania maszyn wirtualnych, do 30% taniej.
+* [KNOXSS](https://knoxss.me/?page_id=1974) - narzędzie do poszukiwania błędów typu XSS, do 50% taniej.
 
 # Dla wszystkich
 
@@ -89,7 +90,6 @@ To tylko przykład. Przed zakupem sprawdź [porównywarki cen](https://www.ceneo
 * [Hack The Box Gift Card](https://www.hackthebox.eu/giftcards) - podatne maszyny wykorzystywane do nauki pentestów - karta podarunkowa na pakiet VIP, który pozwala na sprawdzenie [starszych maszyn](https://www.hackthebox.eu/individuals).
 * [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi oraz do używania specjalnie przygotowanej maszyny do hackowania z poziomu przeglądarki.
 * [PentesterLab PRO](https://pentesterlab.com/pro) - ćwiczenia powiązane z bezpieczeństwem w formie interaktywnych laboratoriów, dostęp do większości wymaga płatnego konta PRO.
-* [KNOXSS](https://knoxss.me/) - narzędzie do poszukiwania błędów typu XSS.
 * [Parallels](https://www.parallels.com/products/desktop/) - oprogramowanie do uruchamiania maszyn wirtualnych dla MacOS - 20% taniej.
 * [Total Commander](https://www.ghisler.com/) - menedżer plików działający w środowisku Windows.
 * [Protonmail](https://protonmail.com/pl/) - poczta e-mail.
