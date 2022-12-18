@@ -8,8 +8,8 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 
 # Dla wszystkich
 
-* [Oferta Rodzinna BIK](https://www.bik.pl/klienci-indywidualni/oferta-rodzinna) - Alerty o próbach wyłudzenia kredytu na Ciebie i 4 inne osoby za 128 zł.
-* [Bitwarden](https://bitwarden.com/pricing) - Menadżer haseł - $40/rocznie za 6 użytkowników lub $10 rocznie za jednego użytkownika.
+* [Oferta Rodzinna BIK](https://www.bik.pl/klienci-indywidualni/oferta-rodzinna) - alerty o próbach wyłudzenia kredytu na Ciebie i 4 inne osoby za 128 zł.
+* [Bitwarden](https://bitwarden.com/pricing) - menadżer haseł - $40/rocznie za 6 użytkowników lub $10 rocznie za jednego użytkownika.
 * [YubiKey 5 NFC](https://www.ceneo.pl/79616002) - klucz U2F chroniący konta przed phishingiem - więcej o nim [tutaj](https://www.youtube.com/watch?v=uku-G_COA7U&t=264s).
 * [Yubico Security Key](https://www.ceneo.pl/79616003) - tańsza wersja klucza YubiKey, różnice opisane [tutaj](https://security.szurek.pl/yubikey/).
   * YubiKey można też zamówić w ramach [promocji Cloudflare](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/). **UWAGA! Bardzo długi czas wysyłki, nie zdążysz przed świętami.**
@@ -19,8 +19,8 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 # Oprogramowanie i usługi
 
 * [MIKR.US](https://mikr.us/) - tanie serwery VPS do nauki Linuxa.
-* [Hack The Box Gift Card](https://www.hackthebox.eu/giftcards) - podatne maszyny wykorzystywane do nauki pentestów - karta podarunkowa na pakiet VIP, który pozwala na sprawdzenie [starszych maszyn](https://www.hackthebox.eu/individuals).
-* [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi oraz do używania specjalnie przygotowanej maszyny do hackowania z poziomu przeglądarki.
+* [Hack The Box Gift Card](https://www.hackthebox.eu/giftcards) - podatne maszyny wykorzystywane do nauki pentestów - karta podarunkowa na pakiet VIP, który pozwala na sprawdzenie starszych maszyn.
+* [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi.
 * [PentesterLab PRO](https://pentesterlab.com/pro) - ćwiczenia powiązane z bezpieczeństwem w formie interaktywnych laboratoriów, dostęp do większości wymaga płatnego konta PRO.
 * [TCM Security - karta podarunkowa](https://academy.tcm-sec.com/p/gift) - różne kursy powiązane z pentestami.
 * [Burp Pro](https://portswigger.net/buy/pro) - płatna wersja narzędzia do [pentestów](https://www.youtube.com/watch?v=cpaxYnHus9Q&t=225s).
