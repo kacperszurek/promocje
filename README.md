@@ -13,11 +13,12 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 * [YubiKey 5 NFC](https://www.ceneo.pl/79616002) - klucz U2F chroniący konta przed phishingiem - więcej o nim [tutaj](https://www.youtube.com/watch?v=uku-G_COA7U&t=264s).
 * [Yubico Security Key](https://www.ceneo.pl/79616003) - tańsza wersja klucza YubiKey, różnice opisane [tutaj](https://security.szurek.pl/yubikey/).
   * YubiKey można też zamówić w ramach [promocji Cloudflare](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/). **UWAGA! Bardzo długi czas wysyłki, nie zdążysz przed świętami.**
-* [Gra garciana IT Startup](https://javadevmatt.shoplo.com/kategoria/gry-edukacyjne).
+* [IT Startup](https://javadevmatt.shoplo.com/kategoria/gry-edukacyjne) - gra garciana osadzona w świecie IT.
+* [Sabotażysta](https://www.rebel.pl/gry-planszowe/sabotazysta-9004.html) - gra karciana z bardzo prostymi zasadami.
 
 # Oprogramowanie i usługi
 
-* [MIKR.US](https://mikr.us/) - tanie serwer VPN do nauki Linuxa.
+* [MIKR.US](https://mikr.us/) - tanie serwery VPS do nauki Linuxa.
 * [Hack The Box Gift Card](https://www.hackthebox.eu/giftcards) - podatne maszyny wykorzystywane do nauki pentestów - karta podarunkowa na pakiet VIP, który pozwala na sprawdzenie [starszych maszyn](https://www.hackthebox.eu/individuals).
 * [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi oraz do używania specjalnie przygotowanej maszyny do hackowania z poziomu przeglądarki.
 * [PentesterLab PRO](https://pentesterlab.com/pro) - ćwiczenia powiązane z bezpieczeństwem w formie interaktywnych laboratoriów, dostęp do większości wymaga płatnego konta PRO.
@@ -36,12 +37,12 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 * [KnoXSS](https://knoxss.me/) - automatyczne poszukiwanie błedów typu XSS.
 * [Todoist](https://todoist.com/pl/pricing) - narzędzie to zarządzania zadaniami. 
 * [Microsoft Office 365 Personal](https://www.ceneo.pl/28820889) - pakiet Office + 1TB na dane w chmurze na 1 rok.
+* [Crunchlabs](https://www.crunchlabs.com/) - subskrypcja na paczki z przedmiotami do samodzielnego złożenia przez dzieci. Uwaga: droga wysyłka.
 
 # Książki
 
 * [Książki od No Starch Press](https://nostarch.com/) - różne książki, jeśli interesujesz się elektroniką sprawdź [Open Circuits](https://nostarch.com/download/OpenCircuits_Chapter1.pdf).
-* [Pakiet od No Starch Press](https://www.humblebundle.com/books/hacking-no-starch-press-books-2022) - kilka książek w paczce od HumbleBundle.
-* [Książki od Wiley](https://www.humblebundle.com/books/holiday-encore-become-cybersecurity-expert-wiley-books) - kilka książek w paczce od HumbleBundle.
+* Paczki książek od HumbleBundle - [No Starch Press](https://www.humblebundle.com/books/hacking-no-starch-press-books-2022), [Wiley](https://www.humblebundle.com/books/holiday-encore-become-cybersecurity-expert-wiley-books).
 * [Zrozumieć programowanie](https://ksiegarnia.pwn.pl/Zrozumiec-programowanie,688790689,p.html) i [Praktyczna inżynieria wsteczna](https://ksiegarnia.pwn.pl/Praktyczna-inzynieria-wsteczna,622427233,p.html) by Gynvael.
 * [Countdown to Zero Day](https://lubimyczytac.pl/ksiazka/4991967/countdown-to-zero-day-stuxnet-and-the-launch-of-the-world-s-first-digital-weapon) - historia złośliwego oprogramowania, które sabotowało wysiłki nuklearne Iranu.
 * [Niewidzialni](https://lubimyczytac.pl/ksiazka/4958514/niewidzialni-najwieksza-tajemnica-sluzb-specjalnych-prl) - w czasach PRL działała grupa kontrwywiadu, której członkowie regularnie wchodzili do ambasad.
@@ -49,14 +50,14 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 
 # Sklepy
 
-* [LAB 401](https://lab401.com/) - europejski dystrybutor HAK5 (i nie tylko) - wysyłka z europy
-* [SAPSAN](https://sapsan-sklep.pl/) - różne produkty powiązane z bezpieczeństwem, _Uwaga: Osobiście **nie korzystałem** z tego sklepu._
+* [LAB 401](https://lab401.com/) - europejski dystrybutor HAK5 (i nie tylko) - wysyłka z Europy.
+* [SAPSAN](https://sapsan-sklep.pl/) - różne produkty powiązane z bezpieczeństwem. _Uwaga: Osobiście **nie korzystałem** z tego sklepu._
 * [Sklep HAK5](https://shop.hak5.org/) - WAŻNE: Wysyłka z USA, trzeba liczyć się z cłem.
 
 # Elektronika
 
 * [Flipper Zero](https://shop.flipperzero.one/) - Multi-tool dla geeków. 
-* [Zewnętrzna karta Wi-Fi](https://www.kali.org/docs/nethunter/wireless-cards/) -  kompatybilna z [KALI Linux](https://www.kali.org/).
+* [Zewnętrzna karta Wi-Fi](https://www.kali.org/docs/nethunter/wireless-cards/) kompatybilna z [KALI Linux](https://www.kali.org/).
 * [Digispark](https://www.ceneo.pl/106485665) - można wykorzystać do stworzenia [domowej roboty](https://hackernoon.com/low-cost-usb-rubber-ducky-pen-test-tool-for-3-using-digispark-and-duck2spark-5d59afc1910) Rubber Ducky.
 * [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - podobny projekt ale z WIFI, wykorzystujący [Atmega32u4](https://allegro.pl/listing?string=Atmega32u4).
 * [PN532](https://allegro.pl/kategoria/komputery?string=PN532) - odczytaj dane z kart RFID używając [tego](http://smartlockpicking.com/slides/Confidence_A_2018_Practical_Guide_To_Hacking_RFID_NFC.pdf) poradnika.
@@ -65,4 +66,5 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 * [Nooelec NESDR SMArt v4](https://www.amazon.pl/s?k=Nooelec) - proste [radio definiowane programowo](http://www.hdsdr.de/screenshots.html) - tutaj [instrukcja](https://support.nooelec.com/hc/en-us/articles/360005298053-NESDR-Installation-Guide). **Uwaga**: Obsługiwanie urządzeń radiowych nadawczych lub nadawczo-odbiorczych wymaga posiadania świadectwa operatora urządzeń radiowych. Więcej o egzaminie [tutaj](http://www.egzaminkf.pl/home.php).
 * [AirTag](https://www.apple.com/pl/airtag/) - jeśli gubisz klucze.
 * [Solo Hacker](https://leetronics.de/en/) - klucz bezpieczeństwa z [otwartym oprogramowaniem](https://github.com/solokeys/solo) (dla pasjonatów, raczej nie do użytku na co dzień).
-* Śrubokręty [iFixit](https://www.ceneo.pl/Zestawy_narzedziowe;szukaj-ifixit) lub nieco tańsze od [Xioami](https://www.ceneo.pl/106921151).
+* Śrubokręty [iFixit](https://www.ceneo.pl/Zestawy_narzedziowe;szukaj-ifixit) lub nieco tańsze od [Xiaomi](https://www.ceneo.pl/106921151).
+* [Raspberry Pi](https://www.ceneo.pl/Komputery;szukaj-raspberry+pi) - małe urządzenie do różnych projektów elektronicznych.
