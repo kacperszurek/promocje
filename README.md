@@ -20,7 +20,7 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 
 * [MIKR.US](https://mikr.us/) - tanie serwery VPS do nauki Linuxa.
 * [Hack The Box Gift Card](https://www.hackthebox.eu/giftcards) - podatne maszyny wykorzystywane do nauki pentestów - karta podarunkowa na pakiet VIP, który pozwala na sprawdzenie starszych maszyn.
-* [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 400 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi.
+* [TryHackMe Subscription](https://tryhackme.com/subscriptions) - platforma  do nauki cyberbezpieczeństwa zawierająca ponad 550 tematycznych pokoi - subskrypcja umożliwia dostęp do wszystkich pokoi oraz specjalną maszynę wirtualną do ćwiczeń dostępną z poziomu przeglądarki internetowej.
 * [PentesterLab PRO](https://pentesterlab.com/pro) - ćwiczenia powiązane z bezpieczeństwem w formie interaktywnych laboratoriów, dostęp do większości wymaga płatnego konta PRO.
 * [TCM Security - karta podarunkowa](https://academy.tcm-sec.com/p/gift) - różne kursy powiązane z pentestami.
 * [Burp Pro](https://portswigger.net/buy/pro) - płatna wersja narzędzia do [pentestów](https://www.youtube.com/watch?v=cpaxYnHus9Q&t=225s).
