@@ -13,7 +13,7 @@ Lubisz moje materiały? [Dołącz do newslettera](https://newsletter.szurek.tv/)
 * [YubiKey 5 NFC](https://www.ceneo.pl/79616002) - klucz U2F chroniący konta przed phishingiem - więcej o nim [tutaj](https://www.youtube.com/watch?v=uku-G_COA7U&t=264s).
 * [Yubico Security Key](https://www.ceneo.pl/79616003) - tańsza wersja klucza YubiKey, różnice opisane [tutaj](https://security.szurek.pl/yubikey/).
   * YubiKey można też zamówić w ramach [promocji Cloudflare](https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/). **UWAGA! Bardzo długi czas wysyłki, nie zdążysz przed świętami.**
-* [IT Startup](https://javadevmatt.shoplo.com/kategoria/gry-edukacyjne) - gra garciana osadzona w świecie IT.
+* [IT Startup](https://javadevmatt.shoplo.com/kategoria/gry-edukacyjne) - gra karciana osadzona w świecie IT.
 * [Sabotażysta](https://www.rebel.pl/gry-planszowe/sabotazysta-9004.html) - gra karciana z bardzo prostymi zasadami.
 
 # Oprogramowanie i usługi
